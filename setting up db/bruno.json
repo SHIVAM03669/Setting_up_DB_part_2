@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "setting up db",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
